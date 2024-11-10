@@ -36,7 +36,7 @@ body {
   
   /* Hero Section */
   .hero-section {
-    background: url('images/banner.png') no-repeat center center/cover;
+    background: url('images/banner.jpg') no-repeat center center/cover;
     padding: 80px 0;
     color: white;
   }
